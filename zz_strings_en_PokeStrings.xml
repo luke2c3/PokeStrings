@@ -227,8 +227,8 @@
 	<string id="300014">Berries</string>
 	<string id="310018">Berries</string>
 
-	<string id="16780309">Planted.</string>
-	<string id="16780310">planted..</string>
+	<string id="16780309">\n</string>
+	<string id="16780310">\n</string>
 	<string id="16780311">sprouted.</string>
 	<string id="16780312">seeds</string>
 	<string id="16780313">sapling</string>
@@ -242,11 +242,11 @@
 	<string id="16780321">Almost flooded.</string>
 	<string id="16780326">\n<!-- Plant? --></string>
 	<string id="16780327">\n<!-- Water? --></string>
-	<string id="16780328">Watered.</string>
+	<string id="16780328">\n</string>
 
-	<string id="16780329">{01} {00}!\n\nPick? {00}?</string>
+	<string id="16780329">\n</string>
 	<string id="16780330">You did not pick the {00}.</string>
-	<string id="16780331">{01} {02}.</string>
+	<string id="16780331">\n</string>
 
 	<string id="16780335">Dry.</string>
 	<string id="16780336">Almost dry.</string>
